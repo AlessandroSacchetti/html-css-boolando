@@ -13,12 +13,18 @@ menu {
 }
 
 section {
-    padding: 100px 20px;
+    padding: 50px 20px;
 }
 
 .container {
     margin: 0 auto;
     max-width: 1200px;
+
+}
+
+section>h1,
+p {
+    text-align: center;
 }
 
 .row {
